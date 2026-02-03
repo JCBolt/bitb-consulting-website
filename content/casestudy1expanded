@@ -1,0 +1,38 @@
+### Case Study: A $2M Team Trapped in Invisible Drag
+
+**Why I was brought in**
+
+I was asked to “build some product processes.”
+
+**What I actually found**
+
+A ~$2M delivery team that was busy and committed, but was losing an estimated **30–40% of its capacity** to structural drag.
+
+Not because people weren’t trying but because the system made consistency impossible.
+
+Priorities shifted frequently. Leadership could—and did—change direction mid-stream. Client-driven deadlines forced engineering to take shortcuts just to keep up.
+
+Those shortcuts didn’t disappear but surfaced later as production outages, rework, and growing delivery risk.
+
+**The constraint I named**
+
+There were no stable, shared priorities nor clear dependency mapping before starting an initiative.
+
+Without a clear planning horizon or explicit trade-offs, teams were constantly context-switching. Short-term delivery pressure crowded out the time required to build things properly, quietly compounding technical and operational debt.
+
+**What I changed**
+
+I designed and implemented:
+
+- A quarterly planning cadence to stabilise priorities
+- Explicit trade-offs so changes were conscious, not reactive
+- Dependency mapping to surface potential delays in delivery
+- Accountability and communication structures that reduced last-minute churn
+
+**The result**
+
+As priorities stabilised, shortcuts decreased and customer value delivery regained predictability. We built visible capacity and business ROI for initiatives to stabilise and improve the system.
+
+Engineering spent less time firefighting and more time doing the work properly.
+
+The team didn’t work harder, but the system stopped forcing failure.

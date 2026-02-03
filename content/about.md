@@ -1,0 +1,5 @@
+I'm Jo, Founder and Principal of BITB Consulting.
+I've spent 25+ years across IBM, PwC Consulting, software companies, and founder-led businesses working at the intersection of people, process, and technology. That's where most organisations quietly lose time, money, and momentum and where I do my best work.
+I work with 3-5 clients at a time - typically scaling companies (50–250 people), PE-backed or private businesses navigating change, or founder-led orgs at a growth inflection.
+I offer fixed-price projects for defined initiatives and retainers for strategic partnership.
+If you want a partner who gets in the boat with you and helps you row in the right direction, the first step is usually a short diagnostic conversation to see whether there's a real structural issue underneath and whether I'm the right person to help.

@@ -1,0 +1,51 @@
+### Case Study: A Business-Critical Platform Migration with Zero Room for Error
+
+**Why I was brought in**
+
+A core technology platform needed to be migrated in-house. It was business-critical and involved **millions of records of data**.
+
+The data lived in a legacy proprietary system and needed to be migrated into a **different custom-built platform** that did *not* yet support all required functionality.
+
+**What made this genuinely hard**
+
+This was not a lift-and-shift migration.
+
+The incoming data exposed real gaps in the target platform. A complex ETL was required, alongside **new product and engineering work** to ensure the data could be correctly supported, used, and maintained once live.
+
+At the same time:
+
+- **80+ people** across Canada and England were involved
+- Work was split across **12 concurrent workstreams**
+- Business, product, and engineering risks were tightly coupled
+
+Incorrect sequencing in any one area would cascade across the programme
+
+**The constraint I focused on**
+
+This programme would fail if **technical discovery, product decisions, and delivery coordination** drifted out of sync.
+
+The work required someone who could:
+
+- Get into the technical weeds when needed
+- Translate implications clearly to non-technical stakeholders
+- Maintain system-level coherence across all workstreams
+
+That was the role I played.
+
+**What I did**
+
+I owned the programme end-to-end, going deep only where the risk demanded it.
+
+- Led overall programme design, delivery and sequencing across all workstreams
+- Oversaw the ETL strategy and migration approach
+- Identified functional gaps in the target platform and shaped the required development work
+- Ensured tight alignment between business expectations, product decisions, and engineering delivery
+- Maintained clear ownership, decision pathways, and escalation mechanisms throughout
+
+**What changed**
+
+The platform went live with **10 minutes of planned downtime**, **zero outages**, and **no data integrity issues**.
+
+A critical technology asset was successfully brought in-house, with the required functionality in place to support the migrated data. Long-term dependency risk was reduced, and a core driver of company value was strengthened.
+
+The result: **a direct increase in company valuation**.
