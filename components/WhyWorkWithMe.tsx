@@ -35,6 +35,13 @@ export default function WhyWorkWithMe() {
           </h2>
 
           <div className="space-y-4 text-dark-600 mb-6">
+            <p>
+              I&apos;m Jo, Founder and Principal of BITB Consulting.
+              I&apos;ve spent 25+ years across IBM, PwC Consulting, software companies,
+              and founder-led businesses working at the intersection of people, process,
+              and technology. That&apos;s where most organisations quietly lose time, money,
+              and momentum, and where I do my best work.
+            </p>
             <p className="text-lg font-medium text-dark">
               I see and say what most teams step around.
             </p>
